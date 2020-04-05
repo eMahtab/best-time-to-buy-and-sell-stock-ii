@@ -32,6 +32,7 @@ Explanation: In this case, no transaction is done, i.e. max profit = 0.
 # Implementation : O(n)
 Say the given array is:
 [7, 1, 5, 3, 6, 4]
+
 If we plot the numbers of the given array on a graph, we get:
 ![Best time to buy and sell stock](best-time-to-buy-and-sell-stock.png?raw=true "Best time to buy and sell stock")
 
