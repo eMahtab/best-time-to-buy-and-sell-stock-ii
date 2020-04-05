@@ -55,8 +55,9 @@ class Solution {
     }
 }
 ```
-# Key points :
-Make a dotted graph representation for better visualization, this helps is solving the problem.
+# Tip :
+Make a dotted graph representation for better visualization, this helps in solving the problem.
 
 # References :
 1. https://github.com/eMahtab/best-time-to-buy-and-sell-stock
+2. https://www.youtube.com/watch?v=blUwDD6JYaE
